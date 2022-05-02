@@ -1,0 +1,2 @@
+{'email': 'qwer@naver.com', 'name': '홍길동', 'username': 'qwer', 'password': 'qwer123'}
+{'email': 'asdf@daum.net', 'name': '김철수', 'username': 'asdf', 'password': 'asdf123'}

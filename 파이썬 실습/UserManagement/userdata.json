@@ -1,0 +1,16 @@
+{
+    "user_mst": [
+        {
+            "email": "qwer",
+            "name": "qwer",
+            "username": "qwer",
+            "password": "qwer"
+        },
+        {
+            "email": "asdf",
+            "name": "asdf",
+            "username": "asdf",
+            "password": "asdf"
+        }
+    ]
+}
